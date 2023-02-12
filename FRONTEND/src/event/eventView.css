@@ -1,0 +1,26 @@
+th,td{
+    border:1px solid black;
+    width:100px;
+    height:100px;
+}
+
+table{
+    width:2500px;
+}
+
+span{
+    background-color: blue;
+    color:white;
+    border-radius: 3px;
+}
+
+.event{
+    background-color: green;
+    color:white;
+    border-radius:3px;
+}
+
+.success{
+    background-color: green;
+}
+
